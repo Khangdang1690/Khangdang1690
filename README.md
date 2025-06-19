@@ -12,71 +12,24 @@
 
 ---
 
-## 🚀 About Me
+# 💫 About Me:
+🎓 Current<br>📍 Computer Science @ University of South Florida<br>📈 GPA: 4.0/4.0<br>🏅 Presidential Scholar<br><br>🚀 Passion<br>🤖 Building AI-powered platforms<br>🧱 Designing scalable backend systems<br>🌍 Creating impactful open-source tools<br><br>🏆 Awards<br>🥇 Winner – Nosu AI Hackathon ($325)<br>🥈 Winner – Google Hackathon ($200)<br>🎖️ USF Green & Gold Presidential Award
 
-- **Current:** Computer Science @ University of South Florida (GPA: 4.0/4.0, Presidential Scholar)
-- **Passion:** Building AI-powered platforms, scalable backend systems, and impactful open-source tools.
-- **Awards:** Winner, Nosu AI Hackathon ($325) & Google Hackathon ($200); USF Green & Gold Presidential Award.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khangphuvinhdang) 
 
-## 🏆 Experience Highlights
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Khangdang1690&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Khangdang1690&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khangdang1690&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Agno (27.3k⭐ Open Source)
-- Fixed critical Gemini 2.0 Flash API bug, enabling universal LLM support (OpenAI, Meta, Anthropic, AWS, Azure, NVIDIA, 20+ providers).
-- Built robust testing framework (23 unit tests, 100% pass rate), improving data visualization tools.
-- Contributions serve 279,000+ global users.
-
-### Finbud (Microsoft Sponsored, $1000 Grant)
-- Migrated backend from Node.js to NestJS, improving maintainability by 60% & API speed by 45%.
-- Automated data scraping with AWS Lambda, eliminating $41,976/year in API costs.
-- Orchestrated Docker & AWS EC2 pipeline for 80% faster deployments and 99.9% uptime.
-
-### LAM²P Laboratory (USF)
-- Co-developed AI image classifier for 500+ research papers; boosted pipeline throughput 20x (4 hrs → 10 mins).
-- Achieved 97%+ accuracy in hydrophobicity detection for medical research.
-
-### Wisdom Robotics
-- Engineered RESTful APIs (Express.js), improved order processing.
-- Optimized driver-matching (O(log n)), integrated real-time notifications (Firebase).
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Khangdang1690&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Khangdang1690&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Selected Projects
-
-- **[Sign1o](https://devpost.com/software/sign1o):** Sign language recognition (CNN, TensorFlow; 90%+ accuracy). Real-time pipeline, scalable backend (NestJS, Prisma, PostgreSQL).
-- **[SafeGuard](https://devpost.com/software/safeguard-oq572w):** Skin cancer detection (TensorFlow), Dockerized microservices, Azure CI/CD.
-- **[FoiceDetect](https://devpost.com/software/foicedetect):** Deepfake voice detection (SVM, 94% accuracy), showcased at USF ACM AI Convention.
-
----
-
-## 🛠️ Technical Skills
-- **Languages:** JavaScript/TypeScript, Python, Java, C/C++, SQL
-- **Frameworks:** NestJS, Express.js, FastAPI, Flask, Django, React.js, Next.js, Tailwind CSS
-- **Databases:** PostgreSQL, MongoDB, Supabase, Prisma
-- **DevOps:** Docker, AWS, Azure, GitHub CI/CD
-- **AI/ML:** Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow, OpenAI, Google Gemini
-- **Tools:** Jira, Figma, Clerk
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khangdang1690&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khangdang1690&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
-
----
-
-## 📫 Let's Connect!
-
-I'm open to opportunities, collaborations, and innovative projects. Feel free to reach out!
-
-- 📧 Email: [kaizerdang.work@gmail.com](mailto:kaizerdang.work@gmail.com)
-- 🌐 [Portfolio](https://portfolio-git-main-khangdang1690s-projects.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/khangphuvinhdang/)
-
-<!--
-> “Engineering meaningful technology with impact, one commit at a time.”
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
