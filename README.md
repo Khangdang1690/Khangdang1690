@@ -79,6 +79,19 @@
 
 ---
 
+## 🌟 Open Source Contribution: [Agno](https://github.com/agno-agi/agno)
+
+<p>
+  <b>Contributor to <a href="https://github.com/agno-agi/agno">Agno</a> — the fastest agentic AI library (27.3k+ stars, 279,000+ users worldwide)</b><br>
+  <ul>
+    <li>🛠️ Fixed a critical Gemini 2.0 Flash API compatibility bug, enabling universal support across <b>OpenAI</b>, <b>Meta</b>, <b>Anthropic</b>, <b>AWS</b>, <b>Azure</b>, <b>NVIDIA</b>, and 20+ LLM providers.</li>
+    <li>🧪 Developed a comprehensive testing framework with 23 unit tests and 100% pass rate for robust data visualization tools.</li>
+    <li>🚀 Delivered a production-ready, open source contribution powering advanced AI data visualization for a global user base.</li>
+  </ul>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
