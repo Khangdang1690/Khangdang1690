@@ -1,5 +1,5 @@
 <!-- Banner/Introduction -->
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=34&center=true&vCenter=true&lines=Hi%2C+I'm+Khang+Dang!+%F0%9F%91%8B;Software+Engineer+%7C+AI+Enthusiast+%7C+Open+Source+Contributor" alt="Typing SVG">
 </p>
 
